@@ -1,3 +1,4 @@
+Top rising queries (week-over-week, normalized index):
 1. summer eu roaming plans  +38%
 2. wildfire smoke map  +31%
 3. uefa final tickets  +27%
