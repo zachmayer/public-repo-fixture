@@ -1,0 +1,1 @@
+- Add CHANGELOG.md to track notable changes.
